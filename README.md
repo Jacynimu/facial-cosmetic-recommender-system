@@ -161,3 +161,4 @@ CREATE TABLE feedback (
 | `openai_service.py` | OpenAI Chat API call + graceful error handling |
 | `requirements.txt` | Python dependencies |
 | `.env.example` | Secret keys template |
+- Jacinta updated image analyser module
